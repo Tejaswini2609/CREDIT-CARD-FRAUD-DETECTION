@@ -11,7 +11,7 @@ The main goals are:
 
 🛠️ How to Run This Project
 1.Clone this repository:
-git clone https://github.com/https://github.com/Tejaswini2609/.git
+git clone https://github.com/https://github.com/Tejaswini2609/https://github.com/Tejaswini2609/CREDIT-CARD-FRAUD-DETECTION.git
 cd your-repo-name
 2.Install required libraries:
 pip install -r requirements.txt
